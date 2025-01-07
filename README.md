@@ -27,5 +27,15 @@ Generating a security report highlighting identified vulnerabilities and recomme
 ![Screenshot 2025-01-07 124459](https://github.com/user-attachments/assets/7a064269-4636-4411-af74-289244792d87)
 
 Step 5: Implement Secure Coding Practices
-Example : Checkout ""
+Example : Checkout "Secure code implementation.py"
+
+Applied Fixes:
+✅ SQL Injection Prevention:
+Parameterized queries (cursor.execute(query, (username, password))) prevent SQL injection attacks.
+
+✅ Input Validation:
+Strips unnecessary whitespace and ensures both fields are provided before processing.
+
+✅ Secure Debug Mode Handling:
+Disabled debug mode (app.run(debug=False)) to prevent sensitive information leakage.
 
