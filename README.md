@@ -3,7 +3,8 @@ Step 1: Choosing a Programming Language and Application
 Programming Language: Python
 Application: An open-source web application written in Python using the Flask framework
 
-Step 2: Identifying an Application for Review (Sample flask app code.py)
+Step 2: Identifying an Application for Review
+Example : Checkout "Sample flask app code.py"
 Analyzing an open-source Flask web application. Flask is a lightweight web framework used for building APIs and web applications.
 
 Step 3: Reviewing the Code for Security Vulnerabilities
@@ -23,3 +24,8 @@ Identified Security Issues:
 
 Step 4: Document Findings and Provide Recommendations
 Generating a security report highlighting identified vulnerabilities and recommendations for secure coding practices.
+![Screenshot 2025-01-07 124459](https://github.com/user-attachments/assets/7a064269-4636-4411-af74-289244792d87)
+
+Step 5: Implement Secure Coding Practices
+Example : Checkout ""
+
