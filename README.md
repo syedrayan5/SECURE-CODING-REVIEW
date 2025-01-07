@@ -24,7 +24,7 @@ Identified Security Issues:
 
 Step 4: Document Findings and Provide Recommendations
 Generating a security report highlighting identified vulnerabilities and recommendations for secure coding practices.
-![Screenshot 2025-01-07 124459](https://github.com/user-attachments/assets/7a064269-4636-4411-af74-289244792d87)
+![Secure coding review](https://github.com/user-attachments/assets/eae0310a-d422-4ad8-acd5-a0abdda3e05f)
 
 Step 5: Implement Secure Coding Practices
 Example : Checkout "Secure code implementation.py"
