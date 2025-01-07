@@ -22,11 +22,11 @@ Identified Security Issues:
 4. Debug Mode Enabled
 - Running Flask in debug=True mode can expose sensitive information and allow arbitrary code execution.
 
-Step 4: Document Findings and Provide Recommendations
+Step 4: Documenting Findings and Provide Recommendations
 Generating a security report highlighting identified vulnerabilities and recommendations for secure coding practices.
 ![Secure coding review](https://github.com/user-attachments/assets/eae0310a-d422-4ad8-acd5-a0abdda3e05f)
 
-Step 5: Implement Secure Coding Practices
+Step 5: Implemented Secure Coding Practices
 Example : Checkout "Secure code implementation.py"
 
 Applied Fixes:
